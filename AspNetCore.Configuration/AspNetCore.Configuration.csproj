@@ -6,4 +6,7 @@
     <AssemblyName>AspNetCore.Configuration</AssemblyName>
     <RootNamespace>AspNetCore.Configuration</RootNamespace>
   </PropertyGroup>
+  <ItemGroup>
+    <Content Include=".DS_Store" />
+  </ItemGroup>
 </Project>
